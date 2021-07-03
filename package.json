@@ -1,0 +1,15 @@
+{
+    "name": "eth-ticker",
+    "version": "0.1.0",
+    "description": "A ticker showing the current ETH exchange rate",
+    "main": "server.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "node server.js"
+    },
+    "author": "SadSumo",
+    "license": "MIT",
+    "dependencies": {
+        "request-promise": "^4.2.6"
+    }
+}
